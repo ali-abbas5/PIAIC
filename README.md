@@ -1,8 +1,8 @@
 # PIAIC
 ## This is my first demo Makrdown.
-###Training Lectures
-** Terminal Lectures **
-__ Git Hub __
+### Training Lectures
+**Terminal Lectures**
+__Git Hub__
 *** Markdown ***
 Use `git init` to intialize the repository.
 some basic `git commands` are;
