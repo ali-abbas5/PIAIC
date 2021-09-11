@@ -3,7 +3,7 @@
 ### Training Lectures
 **Terminal Lectures**
 __Git Hub__
-*** Markdown ***
+***Markdown***
 Use `git init` to intialize the repository.
 some basic `git commands` are;
 ...
@@ -17,24 +17,24 @@ This [PIAIC](https://portal.piaic.org/onlinecourses/AIC/5d863ed66148ea00175fa2fb
 
 Tutorials include
 1. Local
-	-Add
-	-Commit	
-	-Log
-	-Status
+	- Add
+	- Commit	
+	- Log
+	- Status
 2. Remote
-	-push
-	-pull
+	- push
+	- pull
 3. Branch 
-	-brach
-	- branch -v
+	- brach
+	- branch v
 
--[x] Finish my changes.
--[x] Push my commits toi GitHub
--[ ] Test
-
-
+- [x] Finish my changes.
+- [x] Push my commits toi GitHub
+- [ ] Test
 
 
-######Chaudhry Ali Abbas
+
+
+###### Chaudhry Ali Abbas
 
 
