@@ -6,12 +6,12 @@ __Git Hub__
 ***Markdown***
 Use `git init` to intialize the repository.
 some basic `git commands` are;
-...
+```
 git status
 git add .
 git commit -m "message"
 git log
-...
+```
 
 This [PIAIC](https://portal.piaic.org/onlinecourses/AIC/5d863ed66148ea00175fa2fb/lesson/5d8e3fa48c92b10017fedc50/topic/5d8e401f68369f668cbea49d) site was built using [Pyhton](https://www.python.org/)
 
@@ -31,6 +31,10 @@ Tutorials include
 - [x] Finish my changes.
 - [x] Push my commits toi GitHub
 - [ ] Test
+
+In the words of Ali
+> Be the energy you want to be.
+
 
 
 
